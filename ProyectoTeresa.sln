@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProyectoTeresa", ".", "{258B9221-475F-4DC0-925A-BA7A8EF9EE35}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63202"
+		Debug.AspNetCompiler.PhysicalPath = "..\ProyectoTeresa\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63202\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63202"
+		Release.AspNetCompiler.PhysicalPath = "..\ProyectoTeresa\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63202\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63202"
+		SlnRelativePath = "..\ProyectoTeresa\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258B9221-475F-4DC0-925A-BA7A8EF9EE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258B9221-475F-4DC0-925A-BA7A8EF9EE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FE61C6-ED23-4C26-B6BB-988501E0C438}
+	EndGlobalSection
+EndGlobal
